@@ -1,3 +1,5 @@
 New First Line
 New Second Line
+memo: write from local
 New Third Line
+memo: write from remote
