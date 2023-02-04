@@ -1,3 +1,4 @@
 New First Line
 New Second Line
+memo: local
 New Third Line
