@@ -1,5 +1,5 @@
 New First Line
 New Second Line
-memo: write from local
+    memo: write from local (resolve conflict)
 New Third Line
-memo: write from remote
+    memo: write from remote
